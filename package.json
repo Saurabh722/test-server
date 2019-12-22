@@ -1,0 +1,26 @@
+{
+  "name": "test-server",
+  "version": "1.0.0",
+  "description": "test for heroku",
+  "main": "index.js",
+  "engines": {
+    "node": "8.11.1",
+    "npm": "6.9.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saurabh722/test-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saurabh722/test-server/issues"
+  },
+  "homepage": "https://github.com/Saurabh722/test-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
